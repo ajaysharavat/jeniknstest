@@ -1,3 +1,3 @@
 <?php
-echo "this is jenkins project" 
+echo "this is jenkins project with jenkins auto pulls" 
 ?>
